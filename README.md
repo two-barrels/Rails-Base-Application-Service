@@ -1,6 +1,6 @@
 # ServiceBase and DryService in Rails
 
-Welcome to the `ServiceBase` and `DryService` README! This guide will walk you through the usage and benefits of these modules in a Rails application.
+Welcome to the `ServiceBase` and `DryService` README! This guide will walk you through the usage and benefits of these modules in a Rails application and why we use it at Two Barrels!
 
 ## Introduction
 
